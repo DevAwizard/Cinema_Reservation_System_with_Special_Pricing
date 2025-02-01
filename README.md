@@ -3,8 +3,12 @@
 ![cinema reservation system](https://github.com/user-attachments/assets/596af58a-814e-4756-a4a9-61e3c9f79bb6)
 
 
-
-# 🎬 Cinema Seat Reservation System
+<div align="center">
+<h1>🎬 Cinema Seat Reservation System Documentation</h1>
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</div>
 
 Welcome to my **first Python project**! 🎉 This project simulates a cinema seat reservation system, with the goal of applying the basics of Python programming. It combines object-oriented principles with a user-friendly interface for managing seat reservations, pricing, and discounts. Through this project, I aim to reinforce fundamental Python concepts like classes, objects, and basic operations.
 
@@ -23,7 +27,6 @@ Welcome to my **first Python project**! 🎉 This project simulates a cinema sea
 <a name="project-overview"></a>
 
 This project simulates a digital cinema seat management system that allows users to reserve seats, manage prices, and apply discounts. The system is built using object-oriented programming principles for scalability and flexibility. As my **first Python project**, I focused on applying the basics of Python, including classes, methods, and attributes, while adhering to good programming practices.
-
 
 
 ### 🪑 **Core Components**
