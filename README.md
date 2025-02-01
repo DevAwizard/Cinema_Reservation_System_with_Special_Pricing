@@ -10,9 +10,8 @@
 <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
+
 Welcome to my **first Python project**! 🎉 This project simulates a cinema seat reservation system, with the goal of applying the basics of Python programming. It combines object-oriented principles with a user-friendly interface for managing seat reservations, pricing, and discounts. Through this project, I aim to reinforce fundamental Python concepts like classes, objects, and basic operations.
-
-
 
 ### 📑 **Table of Contents**
 1. [Project Overview](#project-overview)
