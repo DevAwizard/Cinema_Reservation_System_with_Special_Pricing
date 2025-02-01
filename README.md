@@ -27,10 +27,10 @@ This project simulates a digital cinema seat management system that allows users
 
 
 ### 🪑 **Core Components**
-<a name="core-componets"></a>
+<a name="core-components"></a>
 
 #### 1. **Seat Management**:
-<a name="seat-management></a>
+<a name="seat-management"></a>
 
 - The **Seat** class 🛋️ represents individual cinema seats with attributes such as:
   - `numero`: Seat number.
@@ -55,7 +55,7 @@ This project simulates a digital cinema seat management system that allows users
 - **Senior Citizen Discount**: Offer a 30% discount for viewers aged 65 or older. 👵👴
 
 #### 3. **⚙️ Validation & Exception Handling**:
-<a name="validation-&-exception-handling"></a>
+<a name="validation-exception-handling"></a>
 
 - **Seat Validation** ✅: Ensure valid seat numbers and rows for smooth seat management.
 - **Discount Eligibility** 🎉: Validate viewer age and the current day to apply discounts correctly.
