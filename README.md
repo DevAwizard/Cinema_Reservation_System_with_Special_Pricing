@@ -24,7 +24,6 @@ Welcome to my **first Python project**! 🎉 This project simulates a cinema sea
 
 ### 🎬 **Project Overview**
 <a name="project-overview"></a>
-
 This project simulates a digital cinema seat management system that allows users to reserve seats, manage prices, and apply discounts. The system is built using object-oriented programming principles for scalability and flexibility. As my **first Python project**, I focused on applying the basics of Python, including classes, methods, and attributes, while adhering to good programming practices.
 
 
@@ -33,7 +32,6 @@ This project simulates a digital cinema seat management system that allows users
 
 #### 1. **Seat Management**:
 <a name="seat-management"></a>
-
 - The **Seat** class 🛋️ represents individual cinema seats with attributes such as:
   - `numero`: Seat number.
   - `fila`: Seat row.
@@ -51,7 +49,6 @@ This project simulates a digital cinema seat management system that allows users
 
 #### 2. **💲 Pricing Structure**:
 <a name="pricing-structure"></a>
-
 - **Base Price**: Set a standard ticket price for general viewers. 🎟️
 - **Discounted Wednesday Pricing**: Apply a 20% discount on Wednesdays to celebrate the moviegoer’s day! 🤑
 - **Senior Citizen Discount**: Offer a 30% discount for viewers aged 65 or older. 👵👴
@@ -63,10 +60,8 @@ This project simulates a digital cinema seat management system that allows users
 - **Discount Eligibility** 🎉: Validate viewer age and the current day to apply discounts correctly.
 - **Error Prevention** 🚫: Prevent duplicate bookings and ensure cancellations are only allowed for reserved seats.
 
-
 #### 4. **📚 Code Organization**:
 <a name="code-organization"></a>
-
 - All attributes are **private** and accessed through getters and setters to ensure encapsulation. 🔒
 - Methods are designed to be **modular**, promoting clean, organized, and reusable code. 🔄
 - The system follows best practices by **avoiding global variables**. 🛡️
