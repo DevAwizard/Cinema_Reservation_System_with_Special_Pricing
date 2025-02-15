@@ -65,6 +65,9 @@ def cine():
 		print(" ❌ The number of people must be greater than 0.")
 
 if __name__ == "__main__":
-	cine()
+	try:
+		cine()
+	except KeyboardInterrupt:
+		print("\nProgram interrupted. Exiting...")
 
 
