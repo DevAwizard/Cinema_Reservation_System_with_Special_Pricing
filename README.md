@@ -14,12 +14,14 @@
 Welcome to my **first Python project**! 🎉 This project simulates a cinema seat reservation system, with the goal of applying the basics of Python programming. It combines object-oriented principles with a user-friendly interface for managing seat reservations, pricing, and discounts. Through this project, I aim to reinforce fundamental Python concepts like classes, objects, and basic operations.
 
 ### 📑 **Table of Contents**
-1. [Project Overview](#project-overview)
-2. [Core Components](#core-components)
+1. [🎬 Project Overview](#project-overview)
+2. [🪑 Core Components](#core-components)
    - [Seat Management](#seat-management)
    - [Pricing Structure](#pricing-structure)
    - [Validation & Exception Handling](#validation-exception-handling)
    - [Code Organization](#code-organization)
+3. [🌲 Project structure](#project-structure)
+4. [📊 Flowchart](#flowchart)
 
 
 ### 🎬 **Project Overview**
@@ -45,8 +47,6 @@ This project simulates a digital cinema seat management system that allows users
   - **Display Seats** 👀: List all seats with their reservation status and applied prices (including discounts).
   - **Search for a Seat** 🔍: Find a seat based on its number or row.
 
-
-
 #### 2. **💲 Pricing Structure**:
 <a name="pricing-structure"></a>
 - **Base Price**: Set a standard ticket price for general viewers. 🎟️
@@ -66,7 +66,21 @@ This project simulates a digital cinema seat management system that allows users
 - Methods are designed to be **modular**, promoting clean, organized, and reusable code. 🔄
 - The system follows best practices by **avoiding global variables**. 🛡️
 
+### 🌲 Project structure
+<a name="project-structure"></a>
 
+```sh
+├── booking_system.py
+├── cinema_hall.py
+├── display_menu.py
+├── main.py
+├── seat.py
+├── show_summary.py
+└── welcoming_messages.py
+```
+
+### 📊 Flowchart
+<a name="flowchart"></a>
 
 
 
